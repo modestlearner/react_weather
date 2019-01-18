@@ -1,0 +1,34 @@
+.home {
+  position: relative;
+  height: 100vh;
+  background-image: url("./images/back.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.bar {
+  background-color: #d35400;
+}
+.btnhome {
+  justify-content: center;
+  left: 9in;
+  top: 7in;
+  position: absolute;
+  text-align: center;
+}
+.inphome {
+  width: 300px;
+  border-radius: 5px;
+  justify-content: center;
+  left: 8in;
+  top: 6in;
+  position: absolute;
+  text-align: center;
+}
+.txthome {
+  position: absolute;
+  justify-content: center;
+  top: 4.3in;
+  left: 5.6in;
+  font-size: 80px;
+  color: #fdfefe;
+}
